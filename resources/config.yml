@@ -1,0 +1,12 @@
+# AdvancedAutoAnnounce Configuration
+
+interval: 60
+prefix: "&b[Server]&r "
+broadcast_mode: "random" # Options: random | sequential
+enabled: true
+
+messages:
+  - "&aWelcome to our server!"
+  - "&eJoin our Discord for updates!"
+  - "&6Type &c/help &6for commands and info."
+  - "&bEnjoy your stay and have fun!"
