@@ -1,0 +1,21 @@
+# Poggit-CI Manifest for AdvancedAutoAnnounce
+# Open the CI at https://poggit.pmmp.io/ci/vinayakkirtan00-sketch/AdvancedAutoAnnounce
+
+build-by-default: true
+branches:
+  - main
+
+projects:
+  AdvancedAutoAnnounce:
+    path: ""
+    icon: "icon.png"
+    type: plugin
+    name: "AdvancedAutoAnnounce"
+    description: "Automatically broadcasts timed messages to players with full customization and delay settings."
+    authors:
+      - "Kirtan Vinayak"
+    license: "MIT"
+    api: [5.0.0]
+    version: "1.0.0"
+    antigen: false
+    libs: []
