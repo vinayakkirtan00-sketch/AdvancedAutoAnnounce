@@ -1,7 +1,5 @@
 # 🧩 AdvancedAutoAnnounce
 
-[![](https://poggit.pmmp.io/shield.state/AdvancedReportSystem)](https://poggit.pmmp.io/p/AdvancedReportSystem)
-
 **AdvancedAutoAnnounce** is a lightweight yet powerful PocketMine-MP plugin that automatically sends customizable broadcast messages to all online players at regular intervals.
 
 Designed for **Minecraft: Bedrock Edition (v1.21.111)** and fully compatible with both **PocketMine API 5 & 6**, it offers smooth automation with zero lag and no manual commands required.
